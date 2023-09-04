@@ -1,69 +1,85 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Xuyang Wang",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "wxy.xuyang@gmail.com",
+    "summary": "Graduate in Machine Learning and Computer Vision"
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "XR Lab, Tencent",
+      "position": "Research Intern",
+      "startDate": "2022-08",
+      "endDate": "2023-05",
+      "summary": "Working on Virtual Avatar Generation for VR",
       "highlights": [
-        "Relativity"
+        "3D Human Reconstruction",
+        "Motion Generation"
+      ]
+    },
+    {
+      "name": "Autonomous Driving Engineering Group, Baidu",
+      "position": "Engineering Intern",
+      "startDate": "2021-11",
+      "endDate": "2022-01",
+      "summary": "Working on 3D Point Cloud Tracking",
+      "highlights": [
+        "3D Point Clouds"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Australian National University, Canberra, Australia",
+      "url": "https://cecc.anu.edu.au/",
+      "area": "Machine Learning and Computer Vision",
+      "studyType": "M.ENG",
+      "startDate": "2021-07",
+      "endDate": "2023-06",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Computer Vision",
+        "Advanced Deep Learning for Computer Vision",
+        "Statistic Machine Learning",
+        "Engineering Data Analysis",
+        "Document Analysis"
+      ]
+    },
+    {
+      "institution": "University of Sydney, Sydney, Australia",
+      "url": "https://www.sydney.edu.au/engineering/schools/school-of-electrical-and-information-engineering.html",
+      "area": "Bachelor of Engineering Honors",
+      "studyType": "B.ENG(Honor)",
+      "startDate": "2018-07",
+      "endDate": "2020-06",
+      "score": "",
+      "courses": [
+        "Computer Engineering",
+        "Telecommunication Engineering",
+        "Electronic and Information Engineering"
+      ]
+    },
+    {
+      "institution": "Harbin Institute of Technology, Harbin, China",
+      "url": "http://hitee.hit.edu.cn/",
+      "area": "Bachelor of Electrical Engineering",
+      "studyType": "B.ENG",
+      "startDate": "2016-08",
+      "endDate": "2020-06",
+      "score": "",
+      "courses": [
+        "Electrical Engineering"
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker"
     },
     {
