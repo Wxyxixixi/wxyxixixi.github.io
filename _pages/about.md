@@ -9,14 +9,14 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Less is more.</p>
+    <p>    Less is more.</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-G'Day! I'm a graduate student from Master of Machine Learning and Computer Vision @ Australian National University in the great bushy city, Canberra Australia. 
+G'Day! I'm a graduate student from Master of [Machine Learning and Computer Vision @ Australian National University](https://cecc.anu.edu.au/) in the great bushy city, Canberra Australia. 
 
 I have been luckily finishing my master thesis under the superivison by [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/) and [Dr. Jing Zhang](https://jingzhang617.github.io/), gaining invaluable knowledge in Generative Models.  I also have the previllege to work closely with [Prof.Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/), [Dr.Shihao Jiang](https://zacjiang.github.io/) and [Dr.Xiu Li](https://lixiulive.com/) during my internship at Tencent XR Lab, gaining hands on experience in the research topic of Human Motion Generation in 3D.
 
