@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting intern at Baidu in Shanghai, can't wait to tect out what I've learned from MLCV. :hammer: :cn:
+Starting intern at Baidu in Shanghai, can't wait to test out what I've learned from MLCV. :hammer: :cn:
