@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-G'Day! I'm an incoming PhD student in the School of Computing at ANU, supervised by [Prof.Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/). My research interest is in Computer Vision and Machine Learing, especially in **Generative AI for visual perception**. 
+G'Day! I'm an incoming PhD student in the [School of Computing](https://comp.anu.edu.au/) at ANU, supervised by [Prof.Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/). My research interest is in Computer Vision and Machine Learing, especially in **Generative AI for visual perception**. 
 
 Previously, I obtained my Master degree in Machine Learning and Computer Vision from Australian National University in 2023. During my master journey, I had been luckily finishing my thesis under the superivison by [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/) and [Dr. Jing Zhang](https://jingzhang617.github.io/), gaining invaluable knowledge in Generative Models.  I also have the previllege to work closely with [Prof.Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/), [Dr.Shihao Jiang](https://zacjiang.github.io/) and [Dr.Xiu Li](https://lixiulive.com/) during my internship at Tencent XR Lab, gaining hands on experience in the research topic of Human Motion Generation in 3D.
 
