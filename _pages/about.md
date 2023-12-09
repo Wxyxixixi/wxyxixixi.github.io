@@ -23,7 +23,7 @@ Previously, I obtained my Master degree in Machine Learning and Computer Vision 
 
 Dating back, I have obtained my B.Eng degree in EE in 2020, from [Harbin Institude of Technology](http://hitee.hit.edu.cn/) , China, and B.Eng degree from [University of Sydney](https://www.sydney.edu.au/engineering/schools/school-of-electrical-and-information-engineering.html) , Australia, as a [joint bachelor program](https://www.crs.jsj.edu.cn/aproval/detail/436). I always amazed about the variousity and commonality across different cultures as well as learning different subjects.
 
-In my spare time, I often go dancing, exploring the expressiveness of my limbs and the musicality of my dancing expression. Meanwhile, I also enjoyed all kinds of outdoor sports. Currently, hitting a goal for a half-marathon in 2024 is what I'm focused after the work.
+In my spare time, I often go dancing :dancer:, exploring the expressiveness of my limbs and the musicality of my dancing expression. Meanwhile, I also enjoyed all kinds of outdoor sports :climbing_woman::tennis:	:swimmer:. Currently, hitting a goal for a half-marathon in 2024 is what I'm focused after the work :running_woman:.
 
 <!-- G'Day! I'm a graduate student from Master of [Machine Learning and Computer Vision @ Australian National University](https://cecc.anu.edu.au/) in the great bushy city, Canberra Australia. 
 
