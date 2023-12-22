@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-G'Day! I'm a first yeat PhD student at ANU, supervised by [Prof.Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/). My research interest is in Computer Vision and Machine Learing.
+G'Day! I'm an incoming PhD student at ANU in 2024 Janurary, supervised by [Prof.Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/). My research interest is in Computer Vision and Machine Learing.
 
 Previously, I obtained my Master degree in Machine Learning and Computer Vision from Australian National University in 2023. I had been luckily worked with [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/) and [Dr. Jing Zhang](https://jingzhang617.github.io/), gaining invaluable knowledge in Generative Models.  I also have the previllege to work closely with [Dr.Shihao Jiang](https://zacjiang.github.io/) and [Dr.Xiu Li](https://lixiulive.com/) during my internship at Tencent XR Lab, gaining hands on experience in 3D Human.
 
