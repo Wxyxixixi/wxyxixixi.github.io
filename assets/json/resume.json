@@ -3,7 +3,7 @@
     "name": "Xuyang Wang (Rita)",
     "image": "",
     "email": "wxy.xuyang@gmail.com",
-    "summary": "Graduate in Machine Learning and Computer Vision"
+    "summary": "PhD student in Machine Learning and Computer Vision"
   },
   "work": [
     {
@@ -30,6 +30,20 @@
   ],
   "volunteer": [],
   "education": [
+    {
+      "institution": "Australian National University, Canberra, Australia",
+      "url": "https://cecc.anu.edu.au/",
+      "area": "Machine Learning and Computer Vision",
+      "studyType": "PhD",
+      "startDate": "2024-01",
+      "endDate": "2027-07",
+      "score": "",
+      "courses": [
+        "Computer Vision",
+        "Deep Learning",
+        "Computer Graphics"
+      ]
+    },
     {
       "institution": "Australian National University, Canberra, Australia",
       "url": "https://cecc.anu.edu.au/",

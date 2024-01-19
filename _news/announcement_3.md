@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-08-01
+date: 2023-05-01
 inline: true
 related_posts: false
 ---
 
-Start my research intern journey with Tencent XR Lab! :sparkles: :smile:
+Finished intern at Tencent!
