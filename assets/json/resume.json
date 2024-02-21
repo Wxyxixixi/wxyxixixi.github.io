@@ -87,7 +87,8 @@
       ]
     }
   ],
-  "awards": ["ANU University Research Scholarship (International)"],
+  "awards": [{"year": "2024-01",
+  "items":"ANU University Research Scholarship (International)"}],
   "certificates": [],
   "publications": [],
   "skills": [],
