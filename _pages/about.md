@@ -7,9 +7,9 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
-    Brian Anderson Building, Level 1, Desk 2A, ANU Acton Campus
+    Desk 2A, Level 1, Brian Anderson Building, ANU Acton Campus
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
