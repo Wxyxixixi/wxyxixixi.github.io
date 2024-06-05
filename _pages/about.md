@@ -17,7 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-G'Day! I'm a first year PhD student at ANU, supervised by [Prof.Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/). My research interest is in Computer Vision and Machine Learing. Specifically, focusing on Geometric Deep Learning and it's application in 3D vision.
+G'Day! I'm a first year PhD student at ANU, supervised by [Prof.Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/). My research topics is in **3D Vision**. 
+ Including but not limited to **3D Mesh Processing**, **Geometric Deep Learning** and **3D Human Motion Reconstruction**.
 
 Previously, I graduated with Master's Degree in Machine Learning and Computer Vision from The Australian National University, and work closely with [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/), [Dr. Jing Zhang](https://jingzhang617.github.io/),[Dr.Shihao Jiang](https://zacjiang.github.io/) and [Dr.Xiu Li](https://lixiulive.com/) in the intersection of Generative Models and Human Motion.
 
