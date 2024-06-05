@@ -24,7 +24,7 @@ Previously, I graduated with Master's Degree in Machine Learning and Computer Vi
 
 Dating back, I obtained my B.Eng in Electrical Engineering from The University of Sydney, Australia, in 2020, and simultaneously received the Bachelor’s Degree in Electrical Engineering and Automation from the Harbin Institute of Technology, China. I always amazed about the variousity and commonality across different cultures as well as learning different subjects.
 
-In my spare time, I often go dancing :dancer:, exploring the expressiveness of my limbs and the musicality of my dancing expression. Meanwhile, I also enjoyed all kinds of outdoor sports :climbing_woman::tennis:	:swimmer:. Currently, finish a half-marathon in 2024 is my goal off ofice :running_woman:.
+In my spare time, I often go dancing :dancer:, exploring the expressiveness of my limbs and the musicality of my dancing expression. Meanwhile, I also enjoyed all kinds of outdoor sports :climbing_woman::tennis:	:swimmer:. ~~Currently, finish a half-marathon in 2024 is my goal off ofice~~ (Updates: Finish 2024 Canberra Half Marathon on April 7th 2024! ) :running_woman:.
 
 <!-- G'Day! I'm a first year PhD student at ANU started from 2024 Janurary, supervised by [Prof.Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/). My research interest is in Computer Vision and Machine Learing.
 
