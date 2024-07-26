@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2023-07-14
+date: 2024-01-15
 inline: true
 related_posts: false
 ---
-
-Graduated from ANU! ~~Looking for a phD position in 3D Vision, Computer Graphics, Deep Learning.~~ :mortar_board:
+Embarking on the PhD journey @ ANU. :P

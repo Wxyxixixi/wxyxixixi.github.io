@@ -27,8 +27,8 @@
         "3D Point Clouds"
       ]
     }
-  ],
-  "volunteer": [],
+  ]
+  ,
   "education": [
     {
       "institution": "Australian National University, Canberra, Australia",
@@ -87,21 +87,19 @@
       ]
     }
   ],
-  "awards": [{"year": "2024-01",
-  "items":"ANU University Research Scholarship (International)"}],
-  "certificates": [],
-  "publications": [],
-  "skills": [],
-  "languages": [
+  "volunteer": [
     {
-      "language": "Chinese",
-      "fluency": "Native speaker"
+      "startDate":"2024-05",
+      "organization": "ECCV 2024, ECCVW 2024, NIPS 2024",
+      "position":"Conference Reviewer"
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "startDate":"2022-07",
+      "organization": "COMP8536 Advanced Topics in Deep Learning for Computer Vision (22S2, ANU), COMP8610 Computer Graphics (24S1, ANU) ",
+      "position":"Teaching Assistance"
     }
   ],
+  "awards": [],
   "interests": [],
   "references": [],
   "projects": []
