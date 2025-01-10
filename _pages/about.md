@@ -17,12 +17,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-G'Day! I'm a first year PhD student at ANU, supervised by [Prof.Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/), and have [A/Prof.Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/) and [Prof.Richard Hartley](https://scholar.google.com.au/citations?user=cHia5p0AAAAJ&hl=en) as my advisors. My research interests are in **3D Vision** and **Generative Modeling**. 
+G'Day! I'm a second year PhD student at ANU, supervised by [Prof.Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/), and have [A/Prof.Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/) and [Prof.Richard Hartley](https://scholar.google.com.au/citations?user=cHia5p0AAAAJ&hl=en) as my advisors. My research interests are in **3D Vision** and **Generative Modeling**. 
  Currently I'm diving into **3D Content Generation**, **Computer Graphics** and **Geometric Deep Learning**.
 
-Previously, I graduated with Master's Degree in Machine Learning and Computer Vision from The Australian National University, and work closely with [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/), [Dr. Jing Zhang](https://jingzhang617.github.io/),[Dr. Shihao Jiang](https://zacjiang.github.io/) and [Dr. Xiu Li](https://lixiulive.com/) in the **3D Human Motion Reconstruction**.
+Previously, I graduated with Master's Degree in Machine Learning and Computer Vision from The Australian National University, advised by [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/) and [Dr. Jing Zhang](https://jingzhang617.github.io/) in Generative Modelling. During my master study, I had the opportunity to take intern in Tencent XR Labs, working with [Dr. Xiu Li](https://lixiulive.com/) and [Dr. Shihao Jiang](https://zacjiang.github.io/) for VR Human Motion Reconstruction. I have also interned at Baidu as a interned engineer for 3D point cloud tracking. I have been intrigued by computer vision, 3D Geometic and generative modelling, their research problems also shed light to my now and the near future :D. Further back, I obtained the Bachelor's Degree in Electrical Engineering from USYD and HIT.
 
-Dating back, I obtained my B.Eng in Electrical Engineering from The University of Sydney, Australia, and received the Bachelor’s Degree in Electrical Engineering and Automation from the Harbin Institute of Technology, China, as a joint bachelor program in 2020. My bachelor's thesis is about ''Signal Processing with Deep Learning Methods''. I always amazed about the variousity and commonality across different cultures as well as learning different subjects.
 
-In my spare time, I often go dancing :dancer:, exploring the expressiveness of my limbs and the musicality of my dancing expression. Meanwhile, I also enjoyed all kinds of outdoor sports :climbing_woman::tennis:	:swimmer:. ~~Currently, finish a half-marathon in 2024 is my goal off ofice~~ (Updates: Finished the 2024 Canberra Half Marathon on April 7th 2024! ) :running_woman:.
+
 
