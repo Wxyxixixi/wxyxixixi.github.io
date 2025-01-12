@@ -1,34 +1,30 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"cheng":
+  - firstname: ["Ziang"]
+    url: https://scholar.google.com/citations?user=1NIzHZcAAAAJ&hl=en
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"li":
+  - firstname: ["Zhenyu"]
+    url: https://zhyever.github.io/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+  - firstname: ["Hongdong"]
+    url: https://users.cecs.anu.edu.au/~hongdong/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"yang":
+  - firstname: ["Jiayu"]
+    url: https://scholar.google.com.au/citations?user=xe6Uv3gAAAAJ&hl=en
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"ji": 
+  - firstname: ["Haorui"]
+    url: https://scholar.google.com/citations?user=9BA3wgQAAAAJ&hl=en
+  
+  - firstname: ["Pan"]
+    url: https://panji530.github.io/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"hartley":
+  - firstname: ["Richard"]
+    url: https://scholar.google.com.au/citations?user=cHia5p0AAAAJ&hl=en
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"harandi":
+  - firstname: ["Mehrtash"]
+    url: https://sites.google.com/site/mehrtashharandi/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
