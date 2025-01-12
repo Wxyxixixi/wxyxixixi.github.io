@@ -4,3 +4,40 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+"CVPR":
+  url: http://cvpr2021.thecvf.com/
+  color: "#ff9900"
+
+"ICCV":
+  url: http://iccv2021.thecvf.com/
+  color: "#ff9900"
+
+"NeurIPS": 
+  url: https://nips.cc/
+  color: "#00b5e5"
+
+"ICML":
+  url: https://icml.cc/
+  color: "#00b5e5"
+
+"AAAI":
+  url: https://aaai.org/
+  color: "#ffcc00"
+
+"IJCV":
+  url: https://www.springer.com/journal/11263
+  color: "#ff6600"
+
+"TPAMI":
+  url: https://www.computer.org/csdl/journal/tp
+  color: "#ff6600"
+
+"TIP":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83
+  color: "#ff6600"
