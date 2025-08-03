@@ -17,11 +17,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-G'Day! I'm a second year PhD student at ANU, supervised by [Prof.Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/), and have [A/Prof.Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/) and [Prof.Richard Hartley](https://scholar.google.com.au/citations?user=cHia5p0AAAAJ&hl=en) as my advisors. My research interests are in **3D Vision** and **Generative Modeling**. 
- Currently I'm diving into **Direct 3D Generation**,**3D Content Generation**, **Computer Graphics** and **Geometric Deep Learning**.
+G'Day! I'm a second year PhD student at ANU, supervised by [Prof.Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/), and have [A/Prof.Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/) and [Prof.Richard Hartley](https://scholar.google.com.au/citations?user=cHia5p0AAAAJ&hl=en) as my advisors. 
 
-Previously, I graduated with Master's Degree in Machine Learning and Computer Vision from The Australian National University, advised by [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/) and [Dr. Jing Zhang](https://jingzhang617.github.io/) in Generative Modelling. During my master study, I had the opportunity to take intern in Tencent XR Labs, working with [Dr. Xiu Li](https://lixiulive.com/) and [Dr. Shihao Jiang](https://zacjiang.github.io/) for VR Human Motion Reconstruction. I have also interned at Baidu as a interned engineer for 3D point cloud tracking. I have been intrigued by computer vision, 3D Geometic and generative modelling, their research problems also shed light to my now and the near future :D. Further back, I obtained the Bachelor's Degree in Electrical Engineering from USYD and HIT.
+My research interests focus on **Generative Models**, **3D Vision**, and **Geometric Deep Learning**. I’m currently exploring problems at the intersection of **content generation on mesh surfaces** and **personalized image generation with appearance consistency**. Broadly, I’m fascinated by how generative modeling and geometry can work together to solve problems in visual understanding and synthesis.
 
+If you’re working on anything related to mesh-based generation, diffusion models, manifold geometry or 3D learning, feel free to reach out—I'm always keen to connect and discuss ideas.
 
+Before my PhD journey, I have obtained the Master's Degree in Machine Learning and Computer Vision from The Australian National University, and Bachelor of Eletrical Engineering from University of Sydney. 
 
-
+I have gained both internship and project experience in human motion generation and virtual reality, under the guidance of [Prof. Nick Barnes](http://users.cecs.anu.edu.au/~nmb/) and [Dr. Jing Zhang](https://jingzhang617.github.io/), [Dr. Xiu Li](https://lixiulive.com/) and [Dr. Shihao Jiang](https://zacjiang.github.io/), to whom I extend my heartfelt gratitude. My fascination with computer vision, 3D geometry, and generative modeling has grown through these experiences, and the research problems I encountered continue to inspire my current and future directions.
