@@ -65,25 +65,13 @@
       "url": "https://www.sydney.edu.au/engineering/schools/school-of-electrical-and-information-engineering.html",
       "area": "Bachelor of Engineering Honors",
       "studyType": "B.ENG (Honor)",
-      "startDate": "2018-07",
-      "endDate": "2020-06",
+      "startDate": "2018",
+      "endDate": "2020",
       "score": "",
       "courses": [
         "Computer Engineering",
         "Telecommunication Engineering",
         "Electronic and Information Engineering"
-      ]
-    },
-    {
-      "institution": "Harbin Institute of Technology, Harbin, China",
-      "url": "http://hitee.hit.edu.cn/",
-      "area": "Bachelor of Electrical Engineering",
-      "studyType": "B.ENG",
-      "startDate": "2016-08",
-      "endDate": "2020-06",
-      "score": "",
-      "courses": [
-        "Electrical Engineering"
       ]
     }
   ],

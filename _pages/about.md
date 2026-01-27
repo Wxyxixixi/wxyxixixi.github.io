@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: profile.jpg
+  image: profile_plo.jpg
   image_circular: false # crops the image to make it circular
   address: >
     Desk 2A, Level 1, Brian Anderson Building, ANU Acton Campus

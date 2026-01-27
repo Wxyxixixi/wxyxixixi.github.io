@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-01-01
+date: 2022-08-01
 inline: true
 related_posts: false
 ---
 
-Finished my intern at Baidu, location redirect to Canberra, Australia! :satisfied: 🇦🇺
+Start my research intern journey with Tencent XR Lab! :sparkles: :smile:

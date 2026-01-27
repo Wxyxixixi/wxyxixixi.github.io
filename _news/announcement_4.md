@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2023-05-01
+date: 2024-01-15
 inline: true
 related_posts: false
 ---
-
-Finished intern at Tencent XR Lab at Canberra!
+Embarking on the PhD journey @ ANU. :P
