@@ -17,11 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-G'Day! I'm a second year PhD student at ANU, supervised by [Prof.Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/), and have [A/Prof.Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/) and [Prof.Richard Hartley](https://scholar.google.com.au/citations?user=cHia5p0AAAAJ&hl=en) as my advisors. 
+G'Day! I'm a third year PhD student at ANU, supervised by [Prof.Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/), and have [A/Prof.Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/) and [Prof.Richard Hartley](https://scholar.google.com.au/citations?user=cHia5p0AAAAJ&hl=en) as my advisors. 
 
-My research interests focus on **Generative Models**, **3D Vision**, and **Geometric Deep Learning**. I’m currently exploring problems at the intersection of **content generation on mesh surfaces** and **personalized image generation with appearance consistency**. Broadly, I’m fascinated by how generative modeling and geometry can work together to solve problems in visual understanding and synthesis.
+**Currently, I'm visiting KAUST Vision-CAIR as a visiting PHD student, working with [Dr.Jian Ding](https://dingjiansw101.github.io/) and [Prof.Mohamed Elhoseiny](https://scholar.google.com/citations?user=iRBUTOAAAAAJ&hl=en).**
 
-If you’re working on anything related to mesh-based generation, diffusion models, manifold geometry or 3D learning, feel free to reach out—I'm always keen to connect and discuss ideas.
+My research interests focus on **Generative Models**, **3D Vision**, **EmbodiedAI** and **Geometric Deep Learning**. Broadly, I’m fascinated by how generative modeling and geometry can work together to solve the problems that benefit for real-life applications.
 
 Before my PhD journey, I have obtained the Master's Degree in Machine Learning and Computer Vision from The Australian National University, and Bachelor of Eletrical Engineering from University of Sydney. 
 
