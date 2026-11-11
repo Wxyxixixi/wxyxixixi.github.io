@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper **Artic-O: End-to-End Articulated Object Reconstruction via Latent Geometry Learning** has been conditionally accepted to **SIGGRAPH Asia 2026**! :tada:
+Our paper **Artic-O: End-to-End Articulated Object Reconstruction via Latent Geometry Learning** has been accepted to **SIGGRAPH Asia 2026**! :tada:
